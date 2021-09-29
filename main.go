@@ -33,7 +33,7 @@ func initDB() {
 		database.Config{
 			ServerName: "localhost:3306",
 			User:       "paul",
-			Password:   "Pw002f!945",
+			Password:   "#",
 			DB:         "golang",
 		}
 
